@@ -10,4 +10,4 @@ They are enthusiastic learners who are passionate about expanding their knowledg
 - [**FPP + Proteus Compiler**](https://github.com/AlbertoSantana0/ProteusFPP)
 - [**TransModus**](https://github.com/TheRealEngineers/TransModus)
 
-[![Want a high five?](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/chancechime)
+[![Want a high five?](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/chancechime){:height="36px" width="36px"}
