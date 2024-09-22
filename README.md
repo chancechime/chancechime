@@ -10,5 +10,4 @@ They are enthusiastic learners who are passionate about expanding their knowledg
 - [**FPP + Proteus Compiler**](https://github.com/AlbertoSantana0/ProteusFPP)
 - [**TransModus**](https://github.com/TheRealEngineers/TransModus)
 
-
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="chancechime" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+[![Support me on Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chancechime)
