@@ -9,6 +9,8 @@ I’m a graduate of California State University, Northridge and currently an M.S
 ## 📱 Currently Working
 
 - Crafting a social discovery app with TypeScript, Firebase, PostgreSQL, and Spring Boot 🗺️
+- A lightweight identity verification tool for devs, built with Node.js, React, and Firebase—features ID uploads, admin review, and API integration 🔐
+- A collaborative issue tracker for small teams, built with React, Flask, and PostgreSQL—features task assignments, real-time comments, and team profiles 🔍
 
 # 💻 Tech Stack:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
