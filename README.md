@@ -12,7 +12,7 @@ I’m a graduate of California State University, Northridge and currently an M.S
 - A lightweight identity verification tool for devs, built with Node.js, React, and Firebase—features ID uploads, admin review, and API integration 🔐
 - A collaborative issue tracker for small teams, built with React, Flask, and PostgreSQL—features task assignments, real-time comments, and team profiles 🔍
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
 
 **Languages:**  
@@ -53,7 +53,8 @@ I’m a graduate of California State University, Northridge and currently an M.S
 
 </div>
 
-<h3> Let's connect on LinkedIn</h3>
+
+<h4> Since you are still here, let's connect on LinkedIn!</h4>
 <p align="center" style="">
 
   <a href="https://www.linkedin.com/in/chancechime">
@@ -62,15 +63,19 @@ I’m a graduate of California State University, Northridge and currently an M.S
     src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
 </p>
-</div>
 
-<div align="center">
 
-### Repositories I Worked On
+## 📚 Repositories I Worked On
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
 
-- [**OrionDB**](https://github.com/chancechime/OrionDB) – A secure desktop store application built with Python, PyQt5, and PostgreSQL.
-- [**FPP + Proteus Compiler**](https://github.com/AlbertoSantana0/ProteusFPP) – A Scala-based compiler for NASA JPL’s Proteus & F Prime Prime, improving system maintainability.
-- [**TransModus**](https://github.com/TheRealEngineers/TransModus) – A Spring Boot and MySQL-powered transportation management platform built for campus-wide use.
+[**OrionDB**](https://github.com/chancechime/OrionDB) <br />
+A secure desktop store application built with Python, PyQt5, and PostgreSQL.
+
+[**FPP + Proteus Compiler**](https://github.com/AlbertoSantana0/ProteusFPP) <br />
+A Scala-based compiler for NASA JPL’s Proteus & F Prime Prime, improving system maintainability.
+
+[**TransModus**](https://github.com/TheRealEngineers/TransModus) <br />
+A Spring Boot and MySQL-powered transportation management platform built for campus-wide use.
 
 </div>
 
