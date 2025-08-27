@@ -64,12 +64,14 @@ I’m a graduate of California State University, Northridge and currently an M.S
 </p>
 </div>
 
+<div align="center">
 ### Repositories I Worked On
 
 - [**OrionDB**](https://github.com/chancechime/OrionDB) – A secure desktop store application built with Python, PyQt5, and PostgreSQL.
 - [**FPP + Proteus Compiler**](https://github.com/AlbertoSantana0/ProteusFPP) – A Scala-based compiler for NASA JPL’s Proteus & F Prime Prime, improving system maintainability.
 - [**TransModus**](https://github.com/TheRealEngineers/TransModus) – A Spring Boot and MySQL-powered transportation management platform built for campus-wide use.
 
+</div>
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/chancechime"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55px" width="185px" alt="Want a high five?"></a>
