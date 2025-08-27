@@ -65,6 +65,7 @@ I’m a graduate of California State University, Northridge and currently an M.S
 </div>
 
 <div align="center">
+
 ### Repositories I Worked On
 
 - [**OrionDB**](https://github.com/chancechime/OrionDB) – A secure desktop store application built with Python, PyQt5, and PostgreSQL.
