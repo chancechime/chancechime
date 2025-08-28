@@ -4,19 +4,12 @@
 
 ## 👨🏾‍💻 About Me
 
-I’m a graduate of California State University, Northridge and currently an M.S. Software Engineering student at WGU with a concentration in Domain-Driven Design. I build scalable, user-focused projects using Python, TypeScript, Rust, Java, and modern frameworks—combining product sense with solid engineering. Beyond coding, I bring experience in project coordination, requirement gathering, and cross-functional collaboration, allowing me to bridge technical development with product management and deliver solutions that balance user needs and business goals.
+I’m a graduate of California State University, Northridge with a B.S. in Computer Science, and I’m currently pursuing an M.S. in Software Engineering at WGU with a concentration in Domain-Driven Design. I build scalable, user-focused projects using Python, TypeScript, Rust, Java, and modern frameworks—combining product sense with solid engineering. Beyond coding, I bring experience in project coordination, requirement gathering, and cross-functional collaboration, bridging technical development with product management to deliver solutions that align user needs with business goals.
 
 ## 📱 Currently Working
-📱 Crafting Spotly, a social discovery app with TypeScript, Firebase, PostgreSQL, and Spring Boot 🗺️
-<br />
-
-📋 A lightweight identity verification tool for devs, built with Node.js, React,
-<br />and Firebase—features ID uploads, admin review, and API integration 🔐
-<br />
-
-📊 A collaborative issue tracker for small teams, built with React, Flask, and PostgreSQL—features task assignments, real-time comments, and team profiles 🔍
-<br />
-
+- 📱 Crafting **Spotly**, a social discovery app with TypeScript, Firebase, PostgreSQL, and Spring Boot 🗺️  
+- 📋 Building a lightweight **identity verification tool** for devs, with Node.js, React, and Firebase—features ID uploads, admin review, and API integration 🔐  
+- 📊 Developing a **collaborative issue tracker** for small teams, with React, Flask, and PostgreSQL—features task assignments, real-time comments, and team profiles 🔍  
 
 ## 💻 Tech Stack
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
@@ -61,8 +54,10 @@ I’m a graduate of California State University, Northridge and currently an M.S
 
 <div></div>
 
+---
+
 <h4> Since you are still here, let's connect on LinkedIn!</h4>
-<p align="center" style="">
+<p align="center">
 
   <a href="https://www.linkedin.com/in/chancechime">
     <img
@@ -73,25 +68,42 @@ I’m a graduate of California State University, Northridge and currently an M.S
 
 <div></div>
 
-## 📚 Some Repositories I Worked On
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+---
 
-[![OrionDB](https://img.shields.io/badge/OrionDB-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chancechime/OrionDB)
- <br />
-Secure desktop store application built with Python, PyQt5, and PostgreSQL.
+## 🚀 Some Repositories I Worked On
 
-[![FPP + Proteus Compiler](https://img.shields.io/badge/FPP%20+%20Proteus%20Compiler-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlbertoSantana0/ProteusFPP)
- <br />
-Scala-based compiler for NASA JPL’s Proteus & F Prime Prime, improving system maintainability and efficiency.
+<div align="center">
 
-[![TransModus](https://img.shields.io/badge/TransModus-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheRealEngineers/TransModus)
- <br />
-Spring Boot and MySQL-powered transportation management platform.
+<!-- OrionDB -->
+<div style="display: flex; align-items: center; justify-content: center; margin: 16px 0; gap: 16px;">
+  <a href="https://github.com/chancechime/OrionDB">
+    <img src="https://img.shields.io/badge/OrionDB-red?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <p style="max-width: 500px;">Secure desktop store application built with Python, PyQt5, and PostgreSQL.</p>
+</div>
+
+<!-- FPP + Proteus Compiler -->
+<div style="display: flex; align-items: center; justify-content: center; margin: 16px 0; gap: 16px; flex-direction: row-reverse;">
+  <a href="https://github.com/AlbertoSantana0/ProteusFPP">
+    <img src="https://img.shields.io/badge/FPP%20+%20Proteus%20Compiler-blue?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <p style="max-width: 500px;">Scala-based compiler for NASA JPL’s Proteus & F Prime Prime, improving system maintainability and efficiency.</p>
+</div>
+
+<!-- TransModus -->
+<div style="display: flex; align-items: center; justify-content: center; margin: 16px 0; gap: 16px;">
+  <a href="https://github.com/TheRealEngineers/TransModus">
+    <img src="https://img.shields.io/badge/TransModus-yellow?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <p style="max-width: 500px;">Spring Boot and MySQL-powered transportation management platform.</p>
+</div>
 
 </div>
 
-<div></div>
+---
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/chancechime"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55px" width="185px" alt="Want a high five?"></a>
+<a href="https://www.buymeacoffee.com/chancechime">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55px" width="185px" alt="Want a high five?">
+</a>
 </div>
