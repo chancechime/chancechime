@@ -53,6 +53,7 @@ I’m a graduate of California State University, Northridge and currently an M.S
 
 </div>
 
+<div></div>
 
 <h4> Since you are still here, let's connect on LinkedIn!</h4>
 <p align="center" style="">
@@ -64,20 +65,26 @@ I’m a graduate of California State University, Northridge and currently an M.S
   </a>
 </p>
 
+<div></div>
 
-## 📚 Repositories I Worked On
+## 📚 Some Repositories I Worked On
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
 
-[**OrionDB**](https://github.com/chancechime/OrionDB) <br />
-A secure desktop store application built with Python, PyQt5, and PostgreSQL.
+[![OrionDB](https://img.shields.io/badge/OrionDB-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chancechime/OrionDB)
+ <br />
+Secure desktop store application built with Python, PyQt5, and PostgreSQL.
 
-[**FPP + Proteus Compiler**](https://github.com/AlbertoSantana0/ProteusFPP) <br />
-A Scala-based compiler for NASA JPL’s Proteus & F Prime Prime, improving system maintainability.
+[![FPP + Proteus Compiler](https://img.shields.io/badge/FPP%20+%20Proteus%20Compiler-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlbertoSantana0/ProteusFPP)
+ <br />
+Scala-based compiler for NASA JPL’s Proteus & F Prime Prime, improving system maintainability and efficiency.
 
-[**TransModus**](https://github.com/TheRealEngineers/TransModus) <br />
-A Spring Boot and MySQL-powered transportation management platform built for campus-wide use.
+[![TransModus](https://img.shields.io/badge/TransModus-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheRealEngineers/TransModus)
+ <br />
+Spring Boot and MySQL-powered transportation management platform.
 
 </div>
+
+<div></div>
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/chancechime"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55px" width="185px" alt="Want a high five?"></a>
