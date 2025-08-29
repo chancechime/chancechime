@@ -7,7 +7,7 @@
 I’m a graduate of California State University, Northridge with a B.S. in Computer Science, and I’m currently pursuing an M.S. in Software Engineering at WGU with a concentration in Domain-Driven Design. I build scalable, user-focused projects using Python, TypeScript, Rust, Java, and modern frameworks—combining product sense with solid engineering. Beyond coding, I bring experience in project coordination, requirement gathering, and cross-functional collaboration, bridging technical development with product management and creative thinking to deliver solutions that align user needs with business goals and missions.
 
 ## 📱 Currently Working
-📱 Crafting **Spotly**, a social discovery app with TypeScript, Firebase, PostgreSQL, and Spring Boot 🗺️  
+📱 Crafting [**Spotly**](http://instagram.com/spotlyhq), a social discovery app with TypeScript, Firebase, PostgreSQL, and Spring Boot 🗺️
 📋 Building a lightweight **identity verification tool** for devs, with Node.js, React, and Firebase—features ID uploads, admin review, and API integration 🔐  
 📊 Developing a **collaborative issue tracker** for small teams, with React, Flask, and PostgreSQL—features task assignments, real-time comments, and team profiles 🔍  
 
