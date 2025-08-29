@@ -8,7 +8,9 @@ I’m a graduate of California State University, Northridge with a B.S. in Compu
 
 ## 📱 Currently Working
 📱 Crafting [**Spotly**](http://instagram.com/spotlyhq), a social discovery app with TypeScript, Firebase, PostgreSQL, and Spring Boot 🗺️
+
 📋 Building a lightweight **identity verification tool** for devs, with Node.js, React, and Firebase—features ID uploads, admin review, and API integration 🔐  
+
 📊 Developing a **collaborative issue tracker** for small teams, with React, Flask, and PostgreSQL—features task assignments, real-time comments, and team profiles 🔍  
 
 ## 💻 Tech Stack
