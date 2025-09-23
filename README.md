@@ -7,11 +7,13 @@
 I’m a graduate of California State University, Northridge with a B.S. in Computer Science, and I’m currently pursuing an M.S. in Software Engineering at WGU with a concentration in Domain-Driven Design. I build scalable, user-focused projects using Python, TypeScript, Rust, Java, and modern frameworks—combining product sense with solid engineering. Beyond coding, I bring experience in project coordination, requirement gathering, and cross-functional collaboration, bridging technical development with product management and creative thinking to deliver solutions that align user needs with business goals and missions.
 
 ## 📱 Currently Working
-📱 Crafting [**Spotly**](http://instagram.com/spotlyhq), a social discovery app with TypeScript, Firebase, PostgreSQL, and Spring Boot 🗺️
+📱 Crafting up [**Spotly**](http://instagram.com/spotlyhq), a **social discovery app with TypeScript, Firebase, PostgreSQL, and Spring Boot** 🗺️  
 
-📋 Building a lightweight **identity verification tool** for devs, with Node.js, React, and Firebase—features ID uploads, admin review, and API integration 🔐  
+🏎️ Powering up **DriverHub Analytics**, an **Angular + FastAPI + Supabase/Postgres** platform for analyzing Formula 1 driver stats and performance trends 📈 
 
-📊 Developing a **collaborative issue tracker** for small teams, with React, Flask, and PostgreSQL—features task assignments, real-time comments, and team profiles 🔍  
+📋 Building a **lightweight identity verification tool**, a **Node.js, React, and Firebase** project — features ID uploads, admin review, and API integration 🔐  
+
+📊 Developing a **collaborative issue tracker**, a **React, Flask, and PostgreSQL** project — features task assignments, real-time comments, and team profiles 🔍  
 
 ## 💻 Tech Stack
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
