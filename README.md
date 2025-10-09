@@ -9,7 +9,7 @@ I’m a graduate of California State University, Northridge with a B.S. in Compu
 ## 📱 Currently Working
 📱 Crafting up [**Spotly**](http://instagram.com/spotlyhq), a **social discovery app with TypeScript, Firebase, PostgreSQL, and Spring Boot** 🗺️  
 
-🏎️ Powering up **DriverHub Analytics**, an **Angular + FastAPI + Supabase/Postgres** platform for analyzing Formula 1 driver stats and performance trends 📈 
+🏎️ Powering up [**DriverHub Analytics**](https://driverhub-analytics.vercel.app/home), an **Angular + FastAPI + Supabase/Postgres** platform for analyzing Formula 1 driver stats and performance trends 📈 
 
 📋 Building a **lightweight identity verification tool**, a **Node.js, React, and Firebase** project — features ID uploads, admin review, and API integration 🔐  
 
