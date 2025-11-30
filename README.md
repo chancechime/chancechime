@@ -9,11 +9,13 @@ I’m a graduate of California State University, Northridge with a B.S. in Compu
 ## 📱 Currently Working
 📱 Crafting up [**Spotly**](http://instagram.com/spotlyhq), a **social discovery app with TypeScript, Firebase, PostgreSQL, and Spring Boot** 🗺️  
 
-🏎️ Powering up [**DriverHub Analytics**](https://driverhub-analytics.vercel.app/), an **Angular + FastAPI + Supabase/Postgres** platform for analyzing Formula 1 driver stats and performance trends 📈 
+🛠️ Shipping **Titan WFT**, a **TypeScript, React, and Chrome Extension** project that syncs retail work schedules into Google Calendar and highlights shift changes and conflicts ⏰  
 
-📋 Building a **lightweight identity verification tool**, a **Node.js, React, and Firebase** project — features ID uploads, admin review, and API integration 🔐  
+🏎️ Powering up [**DriverHub Analytics**](https://driverhub-analytics.vercel.app/), an **Angular + FastAPI + Supabase/Postgres** platform for analyzing Formula 1 driver stats and performance trends 📈  
 
-📊 Developing a **collaborative issue tracker**, a **React, Flask, and PostgreSQL** project — features task assignments, real-time comments, and team profiles 🔍  
+📋 Building a **lightweight identity verification tool**, a **Node.js, React, and Firebase** project, with ID uploads, admin review, and API integration 🔐  
+
+📊 Developing a **collaborative issue tracker**, a **React, Flask, and PostgreSQL** project, with task assignments, real-time comments, and team profiles 🔍  
 
 ## 💻 Tech Stack
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
