@@ -9,7 +9,7 @@ I’m a graduate of California State University, Northridge with a B.S. in Compu
 ## 📱 Currently Working
 📱 Crafting up [**Spotly**](http://instagram.com/spotlyhq), a **social discovery app with TypeScript, Firebase, PostgreSQL, and Spring Boot** 🗺️  
 
-🛠️ Shipping **Titan WFT**, a **TypeScript, React, and Chrome Extension** project that syncs retail work schedules into Google Calendar and highlights shift changes and conflicts ⏰  
+🛠️ Shipping [**Titan WFT**](https://github.com/chancechime/Titan), a **TypeScript, React, and Chrome Extension** project that syncs retail work schedules into Google Calendar and highlights shift changes and conflicts ⏰  
 
 🏎️ Powering up [**DriverHub Analytics**](https://driverhub-analytics.vercel.app/), an **Angular + FastAPI + Supabase/Postgres** platform for analyzing Formula 1 driver stats and performance trends 📈  
 
