@@ -11,7 +11,7 @@ I’m a graduate of California State University, Northridge with a B.S. in Compu
 
 🛠️ Shipping [**Titan WFT**](https://titan-extension.vercel.app/), a **TypeScript, React, and Chrome Extension** project that syncs THD retail work schedules into Google Calendar and highlights shift changes and conflicts ⏰  
 
-🏎️ Powering up [**DriverHub Analytics**](https://driverhub-analytics.vercel.app/), an **Angular + FastAPI + Supabase/Postgres** platform for analyzing Formula 1 driver stats and performance trends 📈  
+🏎️ Powering up **DriverHub Analytics**<!--(https://driverhub-analytics.vercel.app/)-->, an **Angular + FastAPI + Supabase/Postgres** platform for analyzing Formula 1 driver stats and performance trends 📈  
 
 📋 Building a **lightweight identity verification tool**, a **Node.js, React, and Firebase** project, with ID uploads, admin review, and API integration 🔐  
 
