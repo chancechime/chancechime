@@ -6,10 +6,12 @@
 
 I’m a graduate of California State University, Northridge with a B.S. in Computer Science, and I’m currently pursuing an M.S. in Software Engineering at WGU with a concentration in Domain-Driven Design. I build scalable, user-focused projects using Python, TypeScript, Rust, Java, and modern frameworks—combining product sense with solid engineering. Beyond coding, I bring experience in project coordination, requirement gathering, and cross-functional collaboration, bridging technical development with product management and creative thinking to deliver solutions that align user needs with business goals and missions.
 
-## 📱 Currently Working
-📱 Crafting up [**Spotly**](http://instagram.com/spotlyhq), a **social discovery app with TypeScript, Firebase, PostgreSQL, and Spring Boot** 🗺️  
+## 🧳 Shipped & Live
 
-🛠️ Shipping [**Titan WFT**](https://titan-extension.vercel.app/), a **TypeScript, React, and Chrome Extension** project that syncs THD retail work schedules into Google Calendar and highlights shift changes and conflicts ⏰  
+🛠️ [**Titan WFT**](https://titanwft.net/) — a **TypeScript, React, and Chrome Extension** that syncs THD retail work schedules into Google Calendar, and highlights shift changes and conflicts ⏰  
+
+## 📱 In Progress / Actively Building
+📱 Crafting up [**Spotly**](http://instagram.com/spotlyhq), a **social discovery app with TypeScript, Firebase, PostgreSQL, and Spring Boot** 🗺️  
 
 🏎️ Powering up **DriverHub Analytics**<!--(https://driverhub-analytics.vercel.app/)-->, an **Angular + FastAPI + Supabase/Postgres** platform for analyzing Formula 1 driver stats and performance trends 📈  
 
