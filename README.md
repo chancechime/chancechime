@@ -6,6 +6,10 @@
 
 I’m a graduate of California State University, Northridge with a B.S. in Computer Science, and I’m currently pursuing an M.S. in Software Engineering at WGU with a concentration in Domain-Driven Design. I build scalable, user-focused projects using Python, TypeScript, Rust, Java, and modern frameworks—combining product sense with solid engineering. Beyond coding, I bring experience in project coordination, requirement gathering, and cross-functional collaboration, bridging technical development with product management and creative thinking to deliver solutions that align user needs with business goals and missions.
 
+## ✨ Check Me Out
+
+🌐 [**chancechime.dev**](https://chancechime.dev) — my **portfolio**, featuring my projects, build style, and what I’m currently shipping 🚀
+
 ## 🧳 Shipped & Live
 
 🛠️ [**Titan WFT**](https://titanwft.net/) — a **TypeScript, React, and Chrome Extension** that syncs THD retail work schedules into Google Calendar, and highlights shift changes and conflicts ⏰  
