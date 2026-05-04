@@ -2,7 +2,7 @@
 
 # Hey, I'm Chance Chime 👋🏾
 
-### Product-minded engineer building tools that make real workflows smoother, smarter, and a little less annoying.
+### Product engineer building tools that make real workflows smoother, smarter, and a little less annoying.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-chancechime.dev-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://chancechime.dev)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/chancechime)
