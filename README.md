@@ -19,7 +19,7 @@ I sit somewhere between **builder, product thinker, and "wait, why does this wor
 
 Most of my projects blend **software engineering, product strategy, and real-world problem solving**. I build with tools like TypeScript, React, Python, Java, Swift, Rust, Firebase, PostgreSQL, and whatever else the idea bullies me into learning at 2 a.m.
 
-Currently open to **software engineering, product engineering, product, and technical product roles** where I can build, learn quickly, collaborate with good people, and take ownership of work that actually matters.
+Currently open to **product engineering, product, software engineering, and technical product roles** where I can build, learn quickly, collaborate with good people, and take ownership of work that actually matters.
 
 ---
 
