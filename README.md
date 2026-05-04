@@ -1,119 +1,169 @@
 <div align="center">
-<h2>Hey there! I'm Chance Chime 👋</h2>
+
+# Hey, I'm Chance Chime 👋🏾
+
+### Product-minded engineer building tools that make real workflows smoother, smarter, and a little less annoying.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-chancechime.dev-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://chancechime.dev)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/chancechime)
+
 </div>
 
-## 👨🏾‍💻 About Me
+---
 
-I'm a graduate of California State University, Northridge with a B.S. in Computer Science, and I'm currently pursuing an M.S. in Software Engineering at WGU with a concentration in Domain-Driven Design. I build scalable, user-focused projects using Python, TypeScript, Rust, Java, and modern frameworks—combining product sense with solid engineering. Beyond coding, I bring experience in project coordination, requirement gathering, and cross-functional collaboration, bridging technical development with product management and creative thinking to deliver solutions that align user needs with business goals and missions.
+## ✨ About Me
 
-## ✨ Check Me Out
+I'm a Computer Science graduate from California State University, Northridge and currently pursuing my M.S. in Software Engineering at Western Governors University with a focus on Domain-Driven Design.
 
-🌐 [**chancechime.dev**](https://chancechime.dev) — my **portfolio**, featuring my projects, build style, and what I'm currently shipping 🚀
+I sit somewhere between **builder, product thinker, and "wait, why does this workflow still suck?" person**. I like turning messy problems into clean products, especially when the work involves user needs, technical tradeoffs, and shipping something people can actually use.
 
-## 🧳 Shipped & Live
+Most of my projects blend **software engineering, product strategy, and real-world problem solving**. I build with tools like TypeScript, React, Python, Java, Swift, Rust, Firebase, PostgreSQL, and whatever else the idea bullies me into learning at 2 a.m.
 
-🛠️ [**Titan WFT**](https://titanwft.net/) — a **TypeScript, React, and Chrome Extension** that syncs THD retail work schedules into Google Calendar, and highlights shift changes and conflicts ⏰
+Currently open to **software engineering, product engineering, product, and technical product roles** where I can build, learn quickly, collaborate with good people, and take ownership of work that actually matters.
 
-## 📱 In Progress / Actively Building
+---
 
-📱 Crafting up [**Spotly**](http://instagram.com/spotlyhq), a **social discovery app with TypeScript, Firebase, PostgreSQL, and Spring Boot** 🗺️
+## 🚀 Shipped and Live
 
-🏎️ Powering up **DriverHub Analytics**, an **Angular + FastAPI + Supabase/Postgres** platform for analyzing Formula 1 driver stats and performance trends 📈
+### 🛠️ [Titan WFT](https://titanwft.net/)
+A browser extension that syncs Home Depot Workforce Tools schedules into Google Calendar.
 
-📋 Building a **lightweight identity verification tool**, a **Node.js, React, and Firebase** project, with ID uploads, admin review, and API integration 🔐
+Built with **TypeScript, React, Chrome Extension APIs, OAuth 2.0, and Google Calendar API**.
 
-📊 Developing a **collaborative issue tracker**, a **React, Flask, and PostgreSQL** project, with task assignments, real-time comments, and team profiles 🔍
+Titan helps associates avoid manually copying shifts, missing schedule changes, or accidentally living in calendar chaos. Cute idea, real pain point, shipped product.
 
-## 💻 Tech Stack
+---
+
+## 🧪 Actively Building
+
+### 📍 [Spotly](https://instagram.com/spotlyhq)
+A social discovery app for finding where to go next through friends, creators, local communities, and trusted recommendations.
+
+Think less anonymous review wall, more **"where should we go?" powered by people whose taste you actually trust**.
+
+**Stack:** TypeScript, Firebase, PostgreSQL, Spring Boot
+
+---
+
+### 📱 Effort
+A Swift-built screen time accountability app that makes users earn access to distracting apps by completing real-world actions first.
+
+Effort is built for the tiny war between discipline and doomscrolling. If users truly need to open an app, they complete actions like pushups, tasks, or focus-based challenges to unlock time. The goal is to make screen time more intentional, more earned, and a lot harder to waste on autopilot.
+
+**Stack:** Swift, iOS
+
+---
+
+### 🏎️ DriverHub Analytics
+A Formula 1 analytics platform for exploring driver stats, performance trends, and racing data through a cleaner visual experience.
+
+**Stack:** Angular, FastAPI, Supabase, PostgreSQL
+
+---
+
+### 🔐 Identity Verification Tool
+A lightweight verification workflow with ID uploads, admin review, API integration, and secure user handling.
+
+**Stack:** Node.js, React, Firebase
+
+---
+
+### 📊 Collaborative Issue Tracker
+A team-focused issue tracking system with assignments, comments, team profiles, and project visibility.
+
+**Stack:** React, Flask, PostgreSQL
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-**Languages:**\
+### Languages
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E86100?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E86100?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
-**Frameworks / Libraries:**\
+### Frontend and App Development
+
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+
+### Backend and Frameworks
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
-![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Databases:**\
+### Databases and Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**Developer Tools:**\
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 </div>
 
 ---
 
+## 🧩 Some Repositories I Worked On
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| [**OrionDB**](https://github.com/chancechime/OrionDB) | Secure desktop store application with inventory and user management features. | Python, PyQt5, PostgreSQL |
+| [**FPP + Proteus Compiler**](https://github.com/AlbertoSantana0/ProteusFPP) | Scala-based compiler work integrating Proteus and F Prime Prime in a NASA JPL research context. | Scala 3, Compiler Design |
+| [**TransModus**](https://github.com/TheRealEngineers/TransModus) | Transportation management platform for organizing logistics workflows. | Spring Boot, MySQL |
+
+---
+
+## 🌱 What I Care About
+
+- Building products people actually want to use
+- Clean user experiences backed by solid engineering
+- Turning rough ideas into shipped features
+- Learning fast, asking better questions, and owning the work
+- Teams that communicate well, move with purpose, and still have a little sparkle
+
+---
+
 <div align="center">
 
-<h4>Since you are still here, let's connect on LinkedIn!</h4>
+### Since you made it this far, we should probably connect.
 
 <a href="https://www.linkedin.com/in/chancechime">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width="150" alt="LinkedIn">
+  <img src="https://custom-icon-badges.demolab.com/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn">
 </a>
 
-</div>
+<br/>
+<br/>
 
----
-
-## 🚀 Some Repositories I Worked On
-
-<div align="center">
-
-<!-- OrionDB -->
-<div style="display: flex; align-items: center; justify-content: center; margin: 16px 0; gap: 16px;">
-  <a href="https://github.com/chancechime/OrionDB">
-    <img src="https://img.shields.io/badge/OrionDB-red?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <p style="max-width: 500px;">Secure desktop store application built with Python, PyQt5, and PostgreSQL.</p>
-</div>
-
-<!-- FPP + Proteus Compiler -->
-<div style="display: flex; align-items: center; justify-content: center; margin: 16px 0; gap: 16px; flex-direction: row-reverse;">
-  <a href="https://github.com/AlbertoSantana0/ProteusFPP">
-    <img src="https://img.shields.io/badge/FPP%20+%20Proteus%20Compiler-blue?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <p style="max-width: 500px;">Scala-based compiler for NASA JPL's Proteus & F Prime Prime, improving system maintainability and efficiency.</p>
-</div>
-
-<!-- TransModus -->
-<div style="display: flex; align-items: center; justify-content: center; margin: 16px 0; gap: 16px;">
-  <a href="https://github.com/TheRealEngineers/TransModus">
-    <img src="https://img.shields.io/badge/TransModus-yellow?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <p style="max-width: 500px;">Spring Boot and MySQL-powered transportation management platform.</p>
-</div>
-
-</div>
-
----
-
-<div align="center">
 <a href="https://www.buymeacoffee.com/chancechime">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" width="185" alt="Buy me a coffee">
 </a>
+
 </div>
