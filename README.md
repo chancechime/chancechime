@@ -51,28 +51,6 @@ A Swift-built screen time accountability app that makes users earn access to dis
 Effort is built for the tiny war between discipline and doomscrolling. If users truly need to open an app, they complete actions like pushups, tasks, or focus-based challenges to unlock time. The goal is to make screen time more intentional, more earned, and a lot harder to waste on autopilot.
 
 **Stack:** Swift, iOS
-
----
-
-### 🏎️ DriverHub Analytics
-A Formula 1 analytics platform for exploring driver stats, performance trends, and racing data through a cleaner visual experience.
-
-**Stack:** Angular, FastAPI, Supabase, PostgreSQL
-
----
-
-### 🔐 Identity Verification Tool
-A lightweight verification workflow with ID uploads, admin review, API integration, and secure user handling.
-
-**Stack:** Node.js, React, Firebase
-
----
-
-### 📊 Collaborative Issue Tracker
-A team-focused issue tracking system with assignments, comments, team profiles, and project visibility.
-
-**Stack:** React, Flask, PostgreSQL
-
 ---
 
 ## 🧰 Tech Stack
