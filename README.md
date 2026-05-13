@@ -51,6 +51,7 @@ A Swift-built screen time accountability app that makes users earn access to dis
 Effort is built for the tiny war between discipline and doomscrolling. If users truly need to open an app, they complete actions like pushups, tasks, or focus-based challenges to unlock time. The goal is to make screen time more intentional, more earned, and a lot harder to waste on autopilot.
 
 **Stack:** Swift, iOS
+
 ---
 
 ## 🧰 Tech Stack
