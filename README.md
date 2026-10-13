@@ -2,115 +2,97 @@
 
 # Hey, I'm Chance Chime 👋🏾
 
-### Product engineer building tools that make real workflows smoother, smarter, and a little less annoying.
+**Product engineer building tools that make real workflows smoother, smarter, and a little less annoying.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-chancechime.dev-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://chancechime.dev)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/chancechime)
+[![Titan](https://img.shields.io/badge/Titan-titanwft.net-F96302?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://titanwft.net/)
 
 </div>
 
 ---
 
+## 📌 Now
+
+- **Oct 2026:** Shipped **Titan v1.6.1**, the final major release. New design, a guided setup tour, schedule change alerts, store search, and Firefox support.
+- **Oct 2026:** Wrapping up my **M.S. in Software Engineering** at WGU (Domain-Driven Design).
+- **Ongoing:** [Titan Data](https://github.com/chancechime/Titan-Data) keeps itself current with a monthly GitHub Action that finds new stores on its own.
+- **Next:** Looking for **product engineering, product, software engineering, and technical product roles**.
+
+---
+
 ## ✨ About Me
 
-I'm a Computer Science graduate from California State University, Northridge and currently pursuing my M.S. in Software Engineering at Western Governors University with a focus on Domain-Driven Design.
+Computer Science grad from California State University, Northridge, finishing my M.S. in Software Engineering at Western Governors University with a focus on Domain-Driven Design.
 
 I sit somewhere between **builder, product thinker, and "wait, why does this workflow still suck?" person**. I like turning messy problems into clean products, especially when the work involves user needs, technical tradeoffs, and shipping something people can actually use.
 
-Most of my projects blend **software engineering, product strategy, and real-world problem solving**. I build with tools like TypeScript, React, Python, Java, Swift, Rust, Firebase, PostgreSQL, and whatever else the idea bullies me into learning at 2 a.m.
-
-Currently open to **product engineering, product, software engineering, and technical product roles** where I can build, learn quickly, collaborate with good people, and take ownership of work that actually matters.
+I own my projects end to end: scoping, building, QA, store review, and answering the support emails. I build with TypeScript, React, Python, Java, Swift, and whatever else the idea bullies me into learning at 2 a.m.
 
 ---
 
-## 🚀 Shipped and Live
+## 🚀 Shipped
 
-### 🛠️ [Titan WFT](https://titanwft.net/)
-A browser extension that syncs Home Depot Workforce Tools schedules into Google Calendar.
+### 🛠️ [Titan](https://titanwft.net/)
+<sub>**v1.6.1** · Oct 2026 · Final major release, now in maintenance mode</sub>
 
-Built with **TypeScript, React, Chrome Extension APIs, OAuth 2.0, and Google Calendar API**.
+A browser extension that syncs Home Depot Workforce Tool schedules into Google Calendar. Open your schedule, hit sync, and your shifts land on your calendar with the right times, role, and store address.
 
-Titan helps associates avoid manually copying shifts, missing schedule changes, or accidentally living in calendar chaos. Cute idea, real pain point, shipped product.
+- **Only syncs what changed:** adds new shifts, updates moved ones, removes cancelled ones. No duplicates.
+- **Runs everywhere:** Chrome, Edge, Firefox, and Safari, [live on the Chrome Web Store](https://chromewebstore.google.com/detail/bbmligiodjlhjljokhbmaiedcjkboakn).
+- **Privacy first:** no Titan backend holding your schedule, and credentials are encrypted at rest.
+- **Tested:** 130+ unit tests covering sync logic, OAuth, calendar files, and store parsing.
+
+Cute idea, real pain point, shipped product.
+
+**Stack:** TypeScript, React, Vite, Tailwind, Chrome Extension APIs (MV3), OAuth 2.0, Google Calendar API
 
 ---
 
-## 🧪 Actively Building
+### 🗺️ [Titan Data](https://github.com/chancechime/Titan-Data)
+<sub>Live · Powers Titan's store lookup and titanwft.net</sub>
+
+A normalized directory of **2,100+ Home Depot stores** that turns a store number into a full address Google Maps can open.
+
+Once a month a GitHub Action checks Home Depot's sitemap, Overture Maps, and OpenStreetMap for new locations. Anything with every field confirmed gets committed. Anything incomplete gets emailed to me for a manual lookup instead of guessed.
+
+**Stack:** Python, GitHub Actions, Overture Maps, OpenStreetMap
+
+---
+
+## 🧪 Building
 
 ### 📍 [Spotly](https://instagram.com/spotlyhq)
 A social discovery app for finding where to go next through friends, creators, local communities, and trusted recommendations.
 
 Think less anonymous review wall, more **"where should we go?" powered by people whose taste you actually trust**.
 
-**Stack:** TypeScript, Firebase, PostgreSQL, Spring Boot
+**Stack:** React Native (Expo), TypeScript, Firebase, Spring Boot, PostgreSQL, Mapbox
 
 ---
 
 ### 📱 Effort
-A Swift-built screen time accountability app that makes users earn access to distracting apps by completing real-world actions first.
+A screen time accountability app for iOS that makes you earn access to distracting apps by moving first.
 
-Effort is built for the tiny war between discipline and doomscrolling. If users truly need to open an app, they complete actions like pushups, tasks, or focus-based challenges to unlock time. The goal is to make screen time more intentional, more earned, and a lot harder to waste on autopilot.
+Effort is built for the tiny war between discipline and doomscrolling. Hit your limit and the app gets shielded until you knock out a quick challenge like pushups or squats. The front camera counts your reps on device, so no fudging it.
 
-**Stack:** Swift, iOS
+**Stack:** Swift, SwiftUI, Screen Time API, Vision
 
 ---
 
 ## 🧰 Tech Stack
 
-<div align="center">
-
-### Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E86100?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-
-### Frontend and App Development
-
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
-
-### Backend and Frameworks
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Databases and Cloud
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-
-</div>
+| | |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,py,java,swift,rust,scala,cs,cpp" height="40" alt="TypeScript, Python, Java, Swift, Rust, Scala, C#, C++"> |
+| **Frontend & Apps** | <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,vite,tauri" height="40" alt="React, Next.js, Angular, Tailwind CSS, Vite, Tauri"> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,flask,dotnet" height="40" alt="Node.js, Spring Boot, FastAPI, Flask, .NET"> |
+| **Data & Cloud** | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,aws,azure" height="40" alt="PostgreSQL, MySQL, Firebase, Supabase, AWS, Azure"> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,githubactions,docker,vitest,figma,postman,vscode" height="40" alt="Git, GitHub Actions, Docker, Vitest, Figma, Postman, VS Code"> |
 
 ---
 
-## 🧩 Some Repositories I Worked On
+## 🧩 Earlier Work
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
