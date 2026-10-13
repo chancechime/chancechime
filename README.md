@@ -43,8 +43,6 @@ A browser extension that syncs Home Depot Workforce Tool schedules into Google C
 - **Privacy first:** no Titan backend holding your schedule, and credentials are encrypted at rest.
 - **Tested:** 130+ unit tests covering sync logic, OAuth, calendar files, and store parsing.
 
-Cute idea, real pain point, shipped product.
-
 **Stack:** TypeScript, React, Vite, Tailwind, Chrome Extension APIs (MV3), OAuth 2.0, Google Calendar API
 
 ---
