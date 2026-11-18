@@ -14,8 +14,8 @@
 
 ## 📌 Now
 
+- **Nov 2026:** Finished my **M.S. in Software Engineering** at WGU (Domain-Driven Design).
 - **Oct 2026:** Shipped **Titan v1.6.1**, the final major release. New design, a guided setup tour, schedule change alerts, store search, and Firefox support.
-- **Oct 2026:** Wrapping up my **M.S. in Software Engineering** at WGU (Domain-Driven Design).
 - **Ongoing:** [Titan Data](https://github.com/chancechime/Titan-Data) keeps itself current with a monthly GitHub Action that finds new stores on its own.
 - **Next:** Looking for **product engineering, product, software engineering, and technical product roles**.
 
@@ -23,7 +23,7 @@
 
 ## ✨ About Me
 
-Computer Science grad from California State University, Northridge, finishing my M.S. in Software Engineering at Western Governors University with a focus on Domain-Driven Design.
+Computer Science grad from California State University, Northridge, with an M.S. in Software Engineering from Western Governors University focused on Domain-Driven Design.
 
 I sit somewhere between **builder, product thinker, and "wait, why does this workflow still suck?" person**. I like turning messy problems into clean products, especially when the work involves user needs, technical tradeoffs, and shipping something people can actually use.
 
