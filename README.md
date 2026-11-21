@@ -1,13 +1,16 @@
 <div align="center">
 
-# Hey, I'm Chance Chime 👋🏾
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="Hi there, I'm Chance Chime. I fix problems where they start. Product-minded engineer: I build the tool, ship it, and support the people using it.">
+</picture>
 
-**Product-minded engineer. I build the tool, ship it, and support the people using it.**
+<img src="assets/ticker.svg" width="100%" alt="Fixing things at the root. Product engineering. APM and product ops. Builds the tool when there isn't one. Onsite, hybrid, remote. Fresh M.S. in Software Engineering.">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-chancechime.dev-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://chancechime.dev)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/chancechime)
-[![Titan](https://img.shields.io/badge/Titan-titanwft.net-F96302?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://titanwft.net/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white)](https://chancechime.dev/documents/contact/resume.pdf)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-2B3CFF?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/chancechime)
+[![Titan](https://img.shields.io/badge/Titan-titanwft.net-FF6A2B?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://titanwft.net/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-9EF0C4?style=for-the-badge&logo=readthedocs&logoColor=111111)](https://chancechime.dev/documents/contact/resume.pdf)
 
 </div>
 
@@ -132,13 +135,13 @@ Prototyping a PS5 media remote for Mac and iPhone. Built solo in SwiftUI with a 
 ### Since you made it this far, we should probably connect.
 
 <a href="https://www.linkedin.com/in/chancechime">
-  <img src="https://custom-icon-badges.demolab.com/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn">
+  <img src="https://custom-icon-badges.demolab.com/badge/Connect%20on%20LinkedIn-2B3CFF?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn">
 </a>
 <a href="https://chancechime.dev/documents/contact/resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume">
+  <img src="https://img.shields.io/badge/Resume-9EF0C4?style=for-the-badge&logo=readthedocs&logoColor=111111" alt="Resume">
 </a>
 <a href="mailto:chancechime@icloud.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=icloud&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-FFD23F?style=for-the-badge&logo=icloud&logoColor=111111" alt="Email">
 </a>
 
 </div>
