@@ -42,7 +42,7 @@ I own my projects end to end: scoping, building, QA, store review, and answering
 
 A browser extension that syncs Home Depot Workforce Tool schedules into Google Calendar. Open your schedule, hit sync, and your shifts land on your calendar with the right times, role, and store address.
 
-- **Real users:** 57 users, 22% install-click rate, and I handle all the support.
+- **Real users:** 55+ users, 22% install-click rate, and I handle all the support.
 - **Only syncs what changed:** adds new shifts, updates moved ones, removes cancelled ones. No duplicates.
 - **Runs everywhere:** Chrome, Edge, Firefox, and Safari, [live on the Chrome Web Store](https://chromewebstore.google.com/detail/bbmligiodjlhjljokhbmaiedcjkboakn).
 - **Privacy first:** no Titan backend holding your schedule, and credentials are encrypted at rest.
