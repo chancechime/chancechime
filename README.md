@@ -5,7 +5,7 @@
   <img src="assets/banner-light.svg" width="100%" alt="Hi there, I'm Chance Chime. I fix problems where they start. Product-minded engineer: I build the tool, ship it, and support the people using it.">
 </picture>
 
-<img src="assets/ticker.svg" width="100%" alt="Fixing things at the root. Product engineering. APM and product ops. Builds the tool when there isn't one. Onsite, hybrid, remote. Fresh M.S. in Software Engineering.">
+<img src="assets/ticker.svg" width="100%" alt="Fixing things at the root. Product engineering. Product support. APM and product ops. Builds the tool when there isn't one. Onsite, hybrid, remote. M.S. in Software Engineering.">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-chancechime.dev-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://chancechime.dev)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-2B3CFF?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/chancechime)
